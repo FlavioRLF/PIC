@@ -1,4 +1,4 @@
-// Keypad + LCD + P26F877A code
+// Keypad + LCD + P16F877A code
 
 sbit LCD_RS at RB2_bit;
 sbit LCD_EN at RB3_bit;
@@ -73,7 +73,7 @@ void main() {
                 i=0;
             }
             else if (i < 16) {
-                // Exibe o caractere no LCD na posição atual
+                // Exibe o caractere no LCD na posiÃ§Ã£o atual
                 Lcd_Chr(2, i + 1, key);
                 i++;
             }
