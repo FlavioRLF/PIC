@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F628A -DL -O11111114 -fo4 -N"D:\SE_Projeto\Project Interrupt\Codigo Interrupt\ProjectInterrupt.mcppi" -SP"D:\SE_Codigo\mikroC PRO for PIC\Defs\" -SP"D:\SE_Codigo\mikroC PRO for PIC\Uses\P16\" -SP"D:\SE_Projeto\Project Interrupt\Codigo Interrupt\" -IP"D:\SE_Codigo\mikroC PRO for PIC\Uses\P16\" "ProjectInterrupt.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 208 [bytes], Available ROM: 2048 [bytes]	 
+diagnostics: 0	122	Compilation Started	ProjectInterrupt.c
+diagnostics: 42	123	Compiled Successfully	ProjectInterrupt.c
+diagnostics: 0	127	All files Compiled in 110 ms	 
+hint: 0	1144	Used RAM (bytes): 4 (2%)  Free RAM (bytes): 204 (98%)	Used RAM (bytes): 4 (2%)  Free RAM (bytes): 204 (98%)
+hint: 0	1144	Used ROM (program words): 70 (3%)  Free ROM (program words): 1978 (97%)	Used ROM (program words): 70 (3%)  Free ROM (program words): 1978 (97%)
+diagnostics: 0	125	Project Linked Successfully	ProjectInterrupt.mcppi
+diagnostics: 0	128	Linked in 62 ms	 
+diagnostics: 0	129	Project 'ProjectInterrupt.mcppi' completed: 328 ms	 
+diagnostics: 0	103	Finished successfully: 17 nov 2023, 14:41:27	ProjectInterrupt.mcppi
